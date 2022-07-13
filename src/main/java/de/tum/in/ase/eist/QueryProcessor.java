@@ -14,10 +14,8 @@ public class QueryProcessor {
         } else if (query.contains("name")) {
            return "Isi";
         }
-        /*else { // TODO extend the programm here
+        else { // TODO extend the programm here
             return "";
         }
-
-         */
     }
 }
